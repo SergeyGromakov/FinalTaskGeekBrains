@@ -14,4 +14,11 @@ void AnalyseArray(string line)
     }
 }
 
-
+string line1 = "1234";
+string line2 = "1567";
+string line3 = "-2";
+string line4 = "computer science";
+AnalyseArray(line1);
+AnalyseArray(line2);
+AnalyseArray(line3);
+AnalyseArray(line4);
