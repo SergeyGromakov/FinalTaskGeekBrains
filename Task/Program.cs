@@ -21,4 +21,5 @@ string line4 = "computer science";
 AnalyseArray(line1);
 AnalyseArray(line2);
 AnalyseArray(line3);
+
 AnalyseArray(line4);
